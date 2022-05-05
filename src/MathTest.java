@@ -5,6 +5,7 @@ public static int c;
 public static int d;
 public static double k;
     public static void main(String[] args) {
+
     c = a + b;
     d = 4 + b;
         System.out.println(c);
